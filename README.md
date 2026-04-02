@@ -70,7 +70,7 @@ So, any interaction is treated as a **potential attack**.
 ## 🛠️ Installation & Setup
 
 1. Clone the repository:
-   git clone [git clone](https://github.com/your-username/deception-security-system.git)
+   git clone [git clone](https://github.com/chandershekhar00/Deception-Based-Security-Mechanism.git)
    cd deception-security-system
 
 2. Run the program:
